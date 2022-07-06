@@ -1,0 +1,3 @@
+[submodule "01-mass-spring-1d/extern/libigl"]
+	path = 01-mass-spring-1d/extern/libigl
+	url = https://github.com/libigl/libigl.git
